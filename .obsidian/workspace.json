@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "56f66f797b1a4668",
+    "type": "split",
+    "children": [
+      {
+        "id": "d166168e79fdd741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64eebccb180b675",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "4_Muestreo"
+            }
+          },
+          {
+            "id": "64c9a2622fa3759e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Sistemas_Multiagente/4_Recetas/RESUMEN_RECETAS_ALGORITMOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RESUMEN_RECETAS_ALGORITMOS"
+=======
+              "title": "New tab"
+>>>>>>> bd17e00f0b7ab362e2e2ed4bcb7c230a784bf25d
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ca13226a453fe83",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e9354116fa6d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608e60395216419d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b05c6d935f612e2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eaf28c6af638d5cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "584715c948c841d0",
+=======
+            "id": "010b3be9f0f461d3",
+>>>>>>> bd17e00f0b7ab362e2e2ed4bcb7c230a784bf25d
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16f367074f30212e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5826f93caa33a775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337c752faa82417b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_Series_Temporales/3.2_Estimación de la correlación a partir de muestras.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3.2_Estimación de la correlación a partir de muestras"
+            }
+          },
+          {
+            "id": "dc06e7ce210ce899",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_Series_Temporales/n_Modelo Lineal Dinámico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from n_Modelo Lineal Dinámico"
+            }
+          },
+          {
+            "id": "73786fc13d8eab68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5aed6c6cbc8d0c9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemas multiagente.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sistemas multiagente"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a64eebccb180b675",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "2_Sistemas_Multiagente/4_Recetas/RESUMEN_ALGORITMOS.md",
+    "2_Sistemas_Multiagente/4_Recetas/RESUMEN_PRIMERAS_PARTES.md",
+    "2_Sistemas_Multiagente/4_Recetas/RESUMEN_ACLARACIONES_ALGORITMOS.md",
+    "3_Machine_Learning_Producción/4_Muestreo.md",
+    "3_Machine_Learning_Producción/3_Etiquetado.md",
+    "3_Machine_Learning_Producción/2_Definición y Recolección de datos.md",
+    "3_Machine_Learning_Producción/6.1_Algunos_Modelos_+Extras.md",
+    "3_Machine_Learning_Producción/5_Feature Engineering.md",
+    "3_Machine_Learning_Producción/6_Modelos.md",
+    "3_Machine_Learning_Producción/9_Escalabilidad.md",
+    "3_Machine_Learning_Producción/8_Serving.md",
+    "3_Machine_Learning_Producción/7_Entrenamiento.md",
+    "3_Machine_Learning_Producción/10_Calidad.md",
+=======
+    "conflict-files-obsidian-git.md",
+    "3_Machine_Learning_Producción/9_Escalabilidad.md",
+    "Vault.md",
+    "3_Machine_Learning_Producción/8_Serving.md",
+    "3_Machine_Learning_Producción/10_Calidad.md",
+    "3_Machine_Learning_Producción/7_Entrenamiento.md",
+    "3_Machine_Learning_Producción/6.1_Algunos_Modelos_+Extras.md",
+    "3_Machine_Learning_Producción/6_Modelos.md",
+    "3_Machine_Learning_Producción/5_Feature Engineering.md",
+    "3_Machine_Learning_Producción/4_Muestreo.md",
+    "3_Machine_Learning_Producción/3_Etiquetado.md",
+    "3_Machine_Learning_Producción/2_Definición y Recolección de datos.md",
+>>>>>>> bd17e00f0b7ab362e2e2ed4bcb7c230a784bf25d
+    "3_Machine_Learning_Producción/11_MLOps.md",
+    "3_Machine_Learning_Producción/1_Introducción.md",
+    "conflict-files-obsidian-git.md",
+    "assets/Pasted image 20250717074154.png",
+    "assets/Pasted image 20250717074139.png",
+    "assets/Pasted image 20250717074125.png",
+    "assets/Pasted image 20250717065209.png",
+    "assets/Pasted image 20250717051726.png",
+    "1_Series_Temporales/5_Regresión entre series y regresiones con lag.md",
+    "1_Series_Temporales/TLDR.md",
+    "1_Series_Temporales/01_Tips.md",
+    "1_Series_Temporales/00_Tips/00_Tips.md",
+    "1_Series_Temporales/00_Tips",
+    "1_Series_Temporales/12_Modelos SARIMA.md",
+    "1_Series_Temporales/3.2_Estimación de la correlación a partir de muestras.md",
+    "1_Series_Temporales/n_Modelo Lineal Dinámico.md",
+    "1_Series_Temporales/13_Modelos GARCH(a).md",
+    "1_Series_Temporales/3.1_Procesos estacionarios.md",
+    "1_Series_Temporales/3_Medidas de dependencia.md",
+    "1_Series_Temporales/10_Modelos ARIMA.md",
+    "1_Series_Temporales/9 Modelos ARMA.md",
+    "assets/Pasted image 20250712215230.png",
+    "2_Sistemas_Multiagente/4_Recetas",
+    "3_Machine_Learning_Producción/0_Libros/Designing Machine Learning Systems.pdf",
+    "assets/Pasted image 20250619194140.png",
+    "assets/Pasted image 20250619194104.png",
+    "assets/Pasted image 20250619194054.png",
+    "assets/Pasted image 20250619194027.png",
+    "Untitled 1.canvas",
+    "2_Sistemas_Multiagente/3_Repaso_Parcial",
+    "1_Series_Temporales/0_Libros/Time Series A Data Analysis Approach Using R by Robert Shumway, David Stoffe.pdf",
+    "Untitled.canvas",
+    "2_Sistemas_Multiagente/0_Libros/marl-book.pdf",
+    "Untitled",
+    "assets",
+    "2_Sistemas_Multiagente/0_Libros/GT_book-bonanno.pdf",
+    "Tags"
+  ]
+}
